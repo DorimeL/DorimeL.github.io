@@ -2,17 +2,6 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).  
-[Test connecting](./Test.html).
-[Link to my post](/custom-url/)
-
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 ## 猩猩之伙，可以聊缘。
 
 [https://steamcommunity.com/id/DorimeLam/](https://steamcommunity.com/id/DorimeLam/)  
@@ -25,9 +14,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 [Test connecting](./Test.html).  
 [【译介】Superland设计回顾](/custom-url/)  
 
-There should be whitespace between paragraphs.
+[【游话2020】个人向年度游戏回顾](https://zhuanlan.zhihu.com/p/468886141)  
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ### Header 3
 
