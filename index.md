@@ -8,7 +8,8 @@ SW-1281-1519-1813
 [CNC留档](https://space.bilibili.com/35092401/channel/seriesdetail?sid=3329589)
 
 #### 最近更新
-[关于生理评测在游戏行业运用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
+[关于Playtest中生理评测的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
+[关于Arpg中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
 
 #### 历史留档
 [老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
