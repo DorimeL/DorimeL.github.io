@@ -17,7 +17,7 @@ SW-1281-1519-1813
 [【译介】Superland设计回顾](/custom-url/)  
 [【译介】Epic的四次新生：一位游戏巨人的进化历程](https://zhuanlan.zhihu.com/p/468881017)  
 [【弃坑】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
-
+[介绍一个解谜相关的GDC讲座](/Elyot-Grant/)
 
 ## 历史留档
 [老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
