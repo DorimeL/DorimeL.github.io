@@ -19,10 +19,15 @@ There should be whitespace between paragraphs. We recommend including a README, 
 SW-1281-1519-1813
 
 ## Header 2
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Link to another page](./another-page.html).  
+[Test connecting](./Test.html).  
+[【译介】Superland设计回顾](/custom-url/)  
+
+There should be whitespace between paragraphs.
+
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 ### Header 3
 
