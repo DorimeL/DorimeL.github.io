@@ -6,7 +6,8 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).  
 [Test connecting](./Test.html).
-[Test connecting](./_posts/test.html).
+[Link to my post](/custom-url/)
+
 
 There should be whitespace between paragraphs.
 
