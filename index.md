@@ -3,13 +3,11 @@ layout: default
 ---
 
 #### 猩猩之伙，可以聊缘。
-
 [https://steamcommunity.com/id/DorimeLam/](https://steamcommunity.com/id/DorimeLam/)  
 SW-1281-1519-1813  
 [CNC留档](https://space.bilibili.com/35092401/channel/seriesdetail?sid=3329589)
 
 #### 最近更新
-
 [关于生理评测在游戏行业运用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
 
 #### 历史留档
