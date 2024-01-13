@@ -12,7 +12,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # 关于个人
 
-Steam: https://store.steampowered.com/
+Steam: [https://store.steampowered.com/]( https://store.steampowered.com/)
 
 ## Header 2
 
