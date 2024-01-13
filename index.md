@@ -10,9 +10,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# 关于个人
+## 猩猩之伙，可以聊缘。
 
-Steam: [https://store.steampowered.com/]( https://store.steampowered.com/)
+[https://steamcommunity.com/id/DorimeLam/](https://steamcommunity.com/id/DorimeLam/)  
+SW-1281-1519-1813
 
 ## Header 2
 
