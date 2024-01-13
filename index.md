@@ -7,11 +7,14 @@ layout: default
 [https://steamcommunity.com/id/DorimeLam/](https://steamcommunity.com/id/DorimeLam/)  
 SW-1281-1519-1813
 
-## 测试
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## 测试用
 
 [Link to another page](./another-page.html).  
 [Test connecting](./Test.html).  
+
+## 最近更新
+
+[关于生理评测在游戏行业运用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
 
 ## 复读机
 [【译介】Superland设计回顾](/custom-url/)  
