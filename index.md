@@ -11,8 +11,7 @@ SW-1281-1519-1813
 [【专题】关于Playtest中生理评测的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
 [【专题】关于Arpg中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
 
-#### 历史留档
-[【薪火相传】老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
+#### 历史留档 
 [【游话2020】个人向年度游戏回顾](https://zhuanlan.zhihu.com/p/468886141)   
 [【MHRise】八百个小盾不锈钢——Ver.3.6.1版本片手新手教程](https://keylol.com/t778251-1-1)  
 [【MHW】从入门到弃坑——6.0版本片手新手教程](https://keylol.com/t506756-1-1)   
@@ -22,7 +21,9 @@ SW-1281-1519-1813
 [【弃坑】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
+[【随笔】老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
 [【随笔】NieR：Automata玩后感](/NieR-Automata/)
+[【随笔】FarCry5玩后感](/farcry5/)
 
 测试用
 [Link to another page](./another-page.html).  
