@@ -1,6 +1,5 @@
 title: Dorime's Homepage
 logo: /assets/img/logo.png
 description: 猩猩之伙，可以聊缘。
-show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
