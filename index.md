@@ -21,7 +21,7 @@ e1127407@u.nus.edu
   
 [【译介】Superland设计回顾](/custom-url/)  
 [【译介】Epic的四次新生：一位游戏巨人的进化历程](https://zhuanlan.zhihu.com/p/468881017)  
-[【弃坑】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
+[【译介】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
 [【随笔】记一局《潜渊症》中的沙雕出航](/Barotrauma/)  
