@@ -21,6 +21,7 @@ SW-1281-1519-1813
 [【弃坑】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
+[【随笔】记一局《盗贼之海》中的沙雕海战](/sea-of-thieves/)  
 [【随笔】老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
 [【随笔】NieR：Automata玩后感](/NieR-Automata/)  
 [【随笔】FarCry5玩后感](/farcry5/)  
