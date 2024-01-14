@@ -5,8 +5,7 @@ layout: default
 ### 个人相关
 [Dorime](https://www.youtube.com/watch?v=6xUnSVTh8fI&ab_channel=DeccaRecords)  
 e1127407@u.nus.edu  
-
-[Steam主页](https://steamcommunity.com/id/DorimeLam/)  
+[Steam主页传送门](https://steamcommunity.com/id/DorimeLam/)  
 
 
 
