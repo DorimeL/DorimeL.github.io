@@ -5,6 +5,7 @@ layout: default
 ### 个人相关
 [Dorime](https://www.youtube.com/watch?v=6xUnSVTh8fI&ab_channel=DeccaRecords)  
 e1127407@u.nus.edu  
+SW-1281-1519-1813  
 [Steam主页传送门](https://steamcommunity.com/id/DorimeLam/)  
 
 
