@@ -22,8 +22,8 @@ SW-1281-1519-1813
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
 [【随笔】老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
-[【随笔】NieR：Automata玩后感](/NieR-Automata/)
-[【随笔】FarCry5玩后感](/farcry5/)
+[【随笔】NieR：Automata玩后感](/NieR-Automata/)  
+[【随笔】FarCry5玩后感](/farcry5/)  
 
 测试用
 [Link to another page](./another-page.html).  
