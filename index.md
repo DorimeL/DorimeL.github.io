@@ -22,5 +22,7 @@ SW-1281-1519-1813
 [【弃坑】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
+[【随笔】NieR：Automata玩后感](/NieR-Automata/)
+
 测试用
 [Link to another page](./another-page.html).  
