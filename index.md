@@ -32,7 +32,7 @@ SW-1281-1519-1813
 [【随笔】NieR：Automata玩后感](/NieR-Automata/)  
 [【随笔】FarCry5玩后感](/farcry5/)  
 
-[【测试】图集](/parabox/)
+[【图集】Patrick's Parabox的若干关卡展示](/parabox/)
 
 测试用
 [Link to another page](./another-page.html).  
