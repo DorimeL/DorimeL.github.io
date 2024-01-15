@@ -29,10 +29,10 @@ SW-1281-1519-1813
 [【随笔】记一局《潜渊症》中的沙雕出航](/Barotrauma/)  
 [【随笔】记一局《盗贼之海》中的沙雕海战](/sea-of-thieves/)  
 [【随笔】老头环白金后的碎碎念](https://zhuanlan.zhihu.com/p/487937138)  
-[【随笔】NieR：Automata玩后感](/NieR-Automata/)  
+[【随笔】NieR：Automata玩后感](/NieR-Automata/)   
 [【随笔】FarCry5玩后感](/farcry5/)  
 
-[【图集】Patrick's Parabox的若干关卡展示](/parabox/)
+[【图集】Patrick's Parabox的若干关卡展示](/parabox/)  
 [【图集】Steam动态封面](/steamcover/)
 
 测试用
