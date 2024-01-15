@@ -20,11 +20,13 @@ SW-1281-1519-1813
 [【专题】MHW Ver.6.0片手新手教程](https://keylol.com/t506756-1-1)   
 [【合集】Metroidvania纵览（施工中）](/metroidvania/)    
 [【合集】西洋RPG C&C 留档](https://space.bilibili.com/35092401/channel/seriesdetail?sid=3329589)  
+
+[【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)  
+[【解谜】Patrick's Parabox的若干关卡展示](/parabox/)  
   
 [【译介】Superland设计回顾](/custom-url/)  
 [【译介】Epic的四次新生：一位游戏巨人的进化历程](https://zhuanlan.zhihu.com/p/468881017)  
 [【译介】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
-[【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)
 
 [【随笔】记一局《潜渊症》中的沙雕出航](/Barotrauma/)  
 [【随笔】记一局《盗贼之海》中的沙雕海战](/sea-of-thieves/)  
@@ -32,7 +34,6 @@ SW-1281-1519-1813
 [【随笔】NieR：Automata玩后感](/NieR-Automata/)   
 [【随笔】FarCry5玩后感](/farcry5/)  
 
-[【图集】Patrick's Parabox的若干关卡展示](/parabox/)  
 [【图集】Steam动态封面](/steamcover/)
 
 测试用
