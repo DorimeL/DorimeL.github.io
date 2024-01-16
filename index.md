@@ -23,7 +23,7 @@ SW-1281-1519-1813
 
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)  
 [【图集】Patrick's Parabox的若干关卡展示](/parabox/)  
-[【图集】Bonfire peaks的若干关卡展示](/Bonfire-peaks/)
+[【图集】Bonfire peaks的若干关卡展示](/Bonfire-peaks/)   
 [【图集】Solas128的大地图关卡间联动图](/solas128/)
 
   
