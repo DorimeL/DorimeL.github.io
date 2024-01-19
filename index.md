@@ -12,14 +12,14 @@ SW-1281-1519-1813
 
 
 #### 最近更新
-[【专题】关于Playtest中生理评测的若干注意事项(施工中)](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
+[【专题】关于Playtest中生理评测的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
 [【专题】关于Arpg中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
 
 #### 历史留档 
 [【游话2020】个人向年度游戏回顾](https://zhuanlan.zhihu.com/p/468886141)   
 [【专题】MHRise Ver.3.6.1片手新手教程](https://keylol.com/t778251-1-1)  
 [【专题】MHW Ver.6.0片手新手教程](https://keylol.com/t506756-1-1)   
-[【合集】Metroidvania纵览（施工中）](/metroidvania/)    
+[【合集】Metroidvania纵览（弃坑）](/metroidvania/)    
 [【合集】西洋RPG C&C 留档](https://space.bilibili.com/35092401/channel/seriesdetail?sid=3329589)  
 
 [【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)  
