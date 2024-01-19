@@ -22,11 +22,8 @@ SW-1281-1519-1813
 [【合集】Metroidvania纵览（弃坑）](/metroidvania/)    
 [【合集】西洋RPG C&C 留档](https://space.bilibili.com/35092401/channel/seriesdetail?sid=3329589)  
 
-[【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)  
-[【图集】Patrick's Parabox的若干关卡展示](/parabox/)  
-[【图集】Bonfire peaks的若干关卡展示](/Bonfire-peaks/)   
+[【GDC】介绍一个解谜相关的讲座](/Elyot-Grant/)   
 [【图集】Solas128的大地图关卡间联动图](/solas128/)
-
   
 [【译介】Superland设计回顾](/custom-url/)  
 [【译介】Epic的四次新生：一位游戏巨人的进化历程](https://zhuanlan.zhihu.com/p/468881017)  
@@ -38,4 +35,6 @@ SW-1281-1519-1813
 [【随笔】NieR：Automata玩后感](/NieR-Automata/)   
 [【随笔】FarCry5玩后感](/farcry5/)  
 
-[【图集】Steam动态封面](/steamcover/)
+[【图集】Steam动态封面](/steamcover/)  
+[【图集】Patrick's Parabox的若干关卡展示](/parabox/)  
+[【图集】Bonfire peaks的若干关卡展示](/Bonfire-peaks/)   
