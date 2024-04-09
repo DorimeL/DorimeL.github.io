@@ -8,7 +8,7 @@ e1127407@u.nus.edu
 SW-1281-1519-1813  
 [Steam主页传送门](https://steamcommunity.com/id/DorimeLam/)    
 [游戏生涯喜好表](./another-page.html).  
-
+[部分游戏经历](https://docs.qq.com/sheet/DZElVaWpTaUVMaXBF?tab=BB08J2).    
 
 
 #### 最近更新
