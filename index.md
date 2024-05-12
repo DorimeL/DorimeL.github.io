@@ -11,11 +11,18 @@ SW-1281-1519-1813
 [部分游戏经历](https://docs.qq.com/sheet/DZElVaWpTaUVMaXBF?tab=BB08J2).    
 
 #### 代码实践
+[SIR_Optimized_Method](https://github.com/DorimeL/SIR_Optimized_Method)    
+- 用以模拟病毒信息在现实尺度社交网络的核心代码。  
+- 可以在单日内在600万数量级的网络中进行数万次模拟。  
+- 相比既有代码快了三个数量级。
+  
+[物理建模](https://github.com/DorimeL/PC-5215)  
+- 可以跟据需求，使用python编写程序，解决实际的物理问题。
 
 [文字冒险游戏](https://github.com/DorimeL/Siege-of-Hengshai)  
-- 使用python从零撰写文字冒险游戏。
-- 包含随机事件，属性鉴定，分支结局等功能。
-- 包含基于excel的任务编辑器。
+- 使用python从零撰写文字冒险游戏。  
+- 包含随机事件，属性鉴定，分支结局等功能。  
+- 包含基于excel的任务编辑器。  
 
 #### 最近更新
 [【专题】关于Playtest中生理评测的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
