@@ -24,9 +24,7 @@ SW-1281-1519-1813
 - 包含随机事件，属性鉴定，分支结局等功能。  
 - 包含基于excel的任务编辑器。  
 
-#### 最近更新
-[【专题】关于Playtest中生理评测的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD)  
-[【专题】关于Arpg中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
+
 
 #### 历史留档 
 [【游话2020】个人向年度游戏回顾](https://zhuanlan.zhihu.com/p/468886141)   
