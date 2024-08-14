@@ -3,3 +3,5 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+# Ensure all files have LF line endings on checkin and prevent CRLF on checkout:
+* text=auto eol=lf
