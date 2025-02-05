@@ -15,7 +15,7 @@ SW-1281-1519-1813
  
 [【专题】关于ARPG中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
 [【专题】关于生理评测在游戏行业应用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD?u=8f9db8032e3a44448714ab9aa02f1469)    
-[生理曲线示意图](/biotest—image/)    
+[生理曲线示意图](/biotest/)    
 
 #### 历史留档  
 
