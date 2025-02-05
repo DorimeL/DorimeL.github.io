@@ -14,7 +14,8 @@ SW-1281-1519-1813
 #### 最近更新  
  
 [【专题】关于ARPG中动作部分的若干注意事项](https://docs.qq.com/doc/DZERqQld0dElQVG9k)  
-[【专题】关于生理评测在游戏行业应用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD?u=8f9db8032e3a44448714ab9aa02f1469)  
+[【专题】关于生理评测在游戏行业应用的若干注意事项](https://docs.qq.com/doc/DZFpkeVdEcHFGU1ZD?u=8f9db8032e3a44448714ab9aa02f1469)    
+[生理曲线示意图](/biotest—image/)    
 
 #### 历史留档  
 
@@ -29,7 +30,7 @@ SW-1281-1519-1813
 [【图集】Solas128的大地图关卡间联动图](/solas128/)  
 
 [【译介】Superland设计回顾](/custom-url/)  
-
+隔断测试
 [【译介】Epic的四次新生：一位游戏巨人的进化历程](https://zhuanlan.zhihu.com/p/468881017)  
 [【译介】The Drowned Tome 盐和避难所文案整理](/drowned-tome/)  
  
