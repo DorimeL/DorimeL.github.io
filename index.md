@@ -19,6 +19,7 @@ SW-1281-1519-1813
 #### 历史留档  
 
 [【游话2020】个人向年度游戏回顾](https://zhuanlan.zhihu.com/p/468886141)  
+[【游话2024】个人向年度游戏回顾](https://keylol.com/t988301-1-1)  
 [【专题】MHRise Ver.3.6.1片手新手教程](https://keylol.com/t778251-1-1)  
 [【专题】MHW Ver.6.0片手新手教程](https://keylol.com/t506756-1-1)  
 [【合集】Metroidvania纵览（弃坑）](/metroidvania/)  
